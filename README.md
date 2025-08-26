@@ -1,5 +1,4 @@
 
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJxM25nNmE0YXp0ODJ4bWFseXZueTM2ZHE1ZDRpYjZoMXo5bGYwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 <h1 align="center">Hi 👋, I'm Eren Kadir Bağcı</h1>
 <h3 align="center">A data science enthusiast from Türkiye</h3>
 
