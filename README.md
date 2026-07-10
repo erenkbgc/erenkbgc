@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi, I'm Eren Kadir Bağcı 👋</h1>
-  <h3>Industrial Engineer | RPA Developer | Data & AI Enthusiast</h3>
+  <h3> RPA Developer | Data & AI Enthusiast</h3>
   
   <p>I build intelligent automations, analyze data to drive product decisions, and develop LLM-powered workflows.</p>
 
