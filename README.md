@@ -22,8 +22,6 @@
 <tr>
 <td>
 
-🎓 **B.Sc. in Industrial Engineering**
-
 📊 Passionate about **Data Science**, **Machine Learning**, and **Business Analytics**
 
 🤖 Building **AI-powered applications**, **Agentic AI workflows**, and **RAG pipelines**
