@@ -1,8 +1,8 @@
-<h1 align="center">Merhaba, Ben Eren Kadir Bağcı 👋</h1>
-<h3 align="center">Veri Bilimi Tutkunu, Endüstri Mühendisi ve RPA Geliştiricisi</h3>
+<h1 align="center">Hi there, I'm Eren Kadir Bağcı 👋</h1>
+<h3 align="center">Data Science Enthusiast, Industrial Engineer & RPA Developer</h3>
 
 <p align="center">
-  Süreç otomasyonu, veri analizi ve yapay zeka alanlarında verimli çözümler tasarlıyorum. Büyük veriyi işlemekten, robotik süreçleri (RPA) optimize etmekten ve LLM tabanlı iş akışları kurgulamaktan keyif alıyorum.
+  I design efficient solutions in process automation, data analysis, and artificial intelligence. I enjoy processing big data, optimizing robotic processes (RPA), and building LLM-based workflows.
 </p>
 
 <div align="center">
@@ -16,9 +16,9 @@
 
 <br>
 
-### 🛠️ Teknolojiler ve Araçlar
+### 🛠️ Languages and Tools
 
-**Programlama ve Veri Analizi:**
+**Programming & Data Analysis:**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -26,24 +26,24 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-**Veritabanı Yönetimi:**
+**Database Management:**
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-**Otomasyon ve Yapay Zeka:**
-* RPA (UiPath), RAG Pipelines, Prompt Engineering, Süreç Geliştirme
+**Automation & AI:**
+* RPA (UiPath), RAG Pipelines, Prompt Engineering, Process Optimization
 
 <br>
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&locale=en&theme=tokyonight" alt="erenkbgc stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight" alt="erenkbgc streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight" alt="Eren's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight" alt="Eren's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erenkbgc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="erenkbgc top langs" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight" alt="Top Languages" width="70%" />
 </p>
