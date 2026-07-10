@@ -1,104 +1,60 @@
-# Hi, I'm Eren Kadir Bağcı 👋
+<div align="center">
+  
+  <h1>Hi, I'm Eren Kadir Bağcı 👋</h1>
+  <h3>Industrial Engineer | RPA Developer | Data & AI Enthusiast</h3>
+  
+  <p>I build intelligent automations, analyze data to drive product decisions, and develop LLM-powered workflows.</p>
 
-**Industrial Engineer | Data Analyst | AI & Automation Developer**
+  <a href="https://linkedin.com/in/erenkbgc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:erenbgc2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-I enjoy turning raw data into practical decisions and building automation that saves people time.
+</div>
 
-My interests are centered around:
-
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Generative AI & LLM Applications
-- ⚡ Process Automation (RPA)
-- 🐍 Python & SQL Development
-- 📈 Machine Learning
-
----
+<br/>
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Industrial Engineering
-- 💼 Experience in Financial Analysis, Data Analytics and AI Applications
-- 🤖 Built RAG pipelines and LLM-powered workflows
-- 📊 Passionate about transforming messy datasets into meaningful insights
-- 🌱 Currently learning advanced Machine Learning and MLOps
+* **Education:** B.Sc. in Industrial Engineering (2019 to 2024)
+* **Automation:** Developing robotic process automations (RPA), orchestrator management, and system integrations.
+* **AI Focus:** Building RAG pipelines, agentic workflows, and prompt engineering.
+* **Industry Interest:** Product analysis, player behavior, and monetization strategies in the mobile gaming sector.
 
----
+<br/>
 
 ## 🛠 Tech Stack
 
-### Languages
-
+**Languages & Databases** <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Science
-
+**Data Science & Analytics** <br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-### AI
-
+**AI & Automation** <br/>
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-### Automation
-
-![UiPath](https://img.shields.io/badge/UiPath-orange?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-### Tools
-
+**Tools & Platforms** <br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
 
----
-
-## 📌 Featured Projects
-
-### 🏠 House Price Prediction
-
-Machine learning pipeline for predicting housing prices with feature engineering and model evaluation.
-
-### 🎮 Cookie Cats A/B Testing
-
-Statistical analysis of player retention using hypothesis testing and experimentation techniques.
-
-### 🤖 AI Feedback Analysis
-
-LLM-powered feedback classification and sentiment analysis.
-
-### 🗄 Database Design
-
-Normalized SQL database design for a Flappy Bird game.
-
----
+<br/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight"/>
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20Bağcı-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/erenkbgc)
-
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:erenbgc2001@gmail.com)
