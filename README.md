@@ -1,123 +1,58 @@
-<div align="center">
-
-# Hi, I'm Eren Kadir Bağcı 👋
-
-### RPA Developer • AI Developer • Industrial Engineer
-
-Building intelligent automation, creating AI-powered workflows, and transforming data into practical solutions.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erenkbgc)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erenbgc2001@gmail.com)
-
-</div>
-
----
-
-# 🚀 About Me
-
-```python
-class Eren:
-
-    location = "Istanbul, Türkiye"
-
-    education = "B.Sc. Industrial Engineering"
-
-    interests = [
-        "Robotic Process Automation",
-        "Agentic AI",
-        "Generative AI",
-        "Mobile Gaming Analytics",
-        "Process Optimization"
-    ]
-
-    currently_learning = [
-        "n8n",
-        "AI Agents",
-        "Prompt Engineering",
-        "LLM Applications"
-    ]
-
-    fun_fact = "I enjoy solving business problems through automation."
-```
-
----
-
-# 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming
 
-`Python` • `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📚 Libraries
+---
 
-`Pandas` • `NumPy` • `Scikit-Learn` • `LangChain`
+### 📊 Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+> Exploratory Data Analysis • Feature Engineering • Machine Learning • Statistical Analysis • Model Evaluation
+
+---
 
 ### 🤖 AI & Automation
 
-- UiPath
-- UiPath Orchestrator
-- Agentic AI Workflows
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- n8n
-- OpenAI API
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 🗄 Databases
-
-- Microsoft SQL Server
-- MySQL
-- Query Optimization
-- Relational Database Design
-
-### 📊 Analytics
-
-- Power BI
-- Excel
-- Product Analytics
-- Process Analysis
-
-### ⚙️ Tools
-
-- Git
-- GitHub
-- Odoo
-- Regex
-- REST APIs
-- HTML / CSS
+> LLM Applications • Agentic AI • RAG Pipelines • Prompt Engineering • Workflow Automation
 
 ---
 
-# 📈 GitHub Analytics
+### 🗄️ Databases
 
-<p align="center">
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+> SQL • Query Optimization • Relational Database Design
 
 ---
 
-# 🌱 Currently Exploring
+### 📈 Analytics & Visualization
 
-- AI Agents
-- n8n Automation
-- Agentic AI Workflows
-- UiPath Orchestrator
-- Mobile Game Product Analytics
-- Large Language Models
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+> Data Visualization • Dashboarding • Product Analytics • Business Intelligence
 
 ---
 
-<div align="center">
+### ⚙️ Development
 
-*"Turning manual processes into intelligent automation."* ⚡
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+> Git • REST APIs • HTML/CSS • Regex
