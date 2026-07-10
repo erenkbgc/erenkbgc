@@ -1,49 +1,104 @@
-<h1 align="center">Hi there, I'm Eren Kadir Bağcı 👋</h1>
-<h3 align="center">Data Science Enthusiast, Industrial Engineer & RPA Developer</h3>
+# Hi, I'm Eren Kadir Bağcı 👋
+
+**Industrial Engineer | Data Analyst | AI & Automation Developer**
+
+I enjoy turning raw data into practical decisions and building automation that saves people time.
+
+My interests are centered around:
+
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Generative AI & LLM Applications
+- ⚡ Process Automation (RPA)
+- 🐍 Python & SQL Development
+- 📈 Machine Learning
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Sc. in Industrial Engineering
+- 💼 Experience in Financial Analysis, Data Analytics and AI Applications
+- 🤖 Built RAG pipelines and LLM-powered workflows
+- 📊 Passionate about transforming messy datasets into meaningful insights
+- 🌱 Currently learning advanced Machine Learning and MLOps
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge)
+
+### Automation
+
+![UiPath](https://img.shields.io/badge/UiPath-orange?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 House Price Prediction
+
+Machine learning pipeline for predicting housing prices with feature engineering and model evaluation.
+
+### 🎮 Cookie Cats A/B Testing
+
+Statistical analysis of player retention using hypothesis testing and experimentation techniques.
+
+### 🤖 AI Feedback Analysis
+
+LLM-powered feedback classification and sentiment analysis.
+
+### 🗄 Database Design
+
+Normalized SQL database design for a Flappy Bird game.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  I design efficient solutions in process automation, data analysis, and artificial intelligence. I enjoy processing big data, optimizing robotic processes (RPA), and building LLM-based workflows.
-</p>
 
-<div align="center">
-  <a href="mailto:erenbgc2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/erenkbgc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight"/>
 
-<br>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight"/>
 
-### 🛠️ Languages and Tools
-
-**Programming & Data Analysis:**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
-
-**Database Management:**
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-**Automation & AI:**
-* RPA (UiPath), RAG Pipelines, Prompt Engineering, Process Optimization
-
-<br>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenkbgc&show_icons=true&theme=tokyonight" alt="Eren's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenkbgc&theme=tokyonight" alt="Eren's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight" alt="Top Languages" width="70%" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkbgc&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20Bağcı-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/erenkbgc)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:erenbgc2001@gmail.com)
